@@ -18,7 +18,6 @@ namespace DynamicResolver
             {
                 dynamicDll.Implementation.Test();
             }
-            Console.ReadLine();
         }
     }
 }
