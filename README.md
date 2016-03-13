@@ -1,6 +1,8 @@
 # DynamicResolver
 Combines dependency injection with dynamicaly loading and unloading dll plugins.
 
+Required Visual Studio 2015!
+
 Before:
 ![Before](http://lukasz-jankowski.pl/wp-content/uploads/2016/03/1.png "Before")
 
